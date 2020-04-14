@@ -1,5 +1,5 @@
 ```csharp
-![logo](image\剑眉星目.jpg)
+![logo](https://docsify.js.org/_media/icon.svg)
 
 # 剑眉星目
 
