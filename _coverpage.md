@@ -1,13 +1,14 @@
 ```csharp
 ![logo](https://docsify.js.org/_media/icon.svg)
+# 我的文档网站
+## 个人文档网站
+> 一个神奇的文档网站生成巩固
 
-# 剑眉星目
+* Simple and lightweight (~12kb gzipped)
+* Multiple themes
+* Not build static html files
 
-> 人生苦短，我用Python!
-
-* Python基础：
-* Spider爬虫：
-
-[GitHub](https://chen-zhuo.github.io/Python/#/)
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Get Started](#quick-start)
 [Get Started](#quick-start)
 ```
