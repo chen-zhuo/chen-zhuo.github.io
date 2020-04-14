@@ -1,4 +1,4 @@
-![logo](image\剑眉星目.jpg)
+![logo](image/剑眉星目.jpg)
 
 > 一个神奇的文档网站生成巩固
 
