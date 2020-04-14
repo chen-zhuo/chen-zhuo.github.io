@@ -1,10 +1,9 @@
-![logo](image/图片3.png)
+![logo](image/logo.jpg)
 
-> 一个神奇的文档网站生成巩固
+> 个人主页
 
 * Simple and lightweight (~12kb gzipped)
 * Multiple themes
 * Not build static html files
 
-[GitHub](https://github.com/chen-zhuo)
-[Get Started](#quick-start)
+[GitHub](https://github.com/chen-zhuo)[Get Started](#quick-start)
