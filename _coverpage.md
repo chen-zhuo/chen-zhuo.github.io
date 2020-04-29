@@ -1,6 +1,6 @@
 ![logo](image/avatar.jpg)
 
-# chen-zhuo
+# Chen-Zhuo
 
 > 但行好事，莫问前程！
 
