@@ -1,6 +1,6 @@
 ![logo](image/avatar.jpg)
 
-<font size="10">chen-zhuo</font>
+<font size="10">Chen-Zhuo</font>
 
 > 但行好事，莫问前程！
 
